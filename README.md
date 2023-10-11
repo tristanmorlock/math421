@@ -17,3 +17,5 @@
 - [Assignment 7](assignment7.html) - [Link to the plot](companysizesalary.png)
 
 - [Assignment 8](assignment8.html)
+
+- [Assignment 9](assignment9.html)
